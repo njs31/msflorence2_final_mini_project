@@ -1,0 +1,30 @@
+Output for bathing.jpg:
+Text: {'<CAPTION>': 'a man washing his hands in the shower'}
+
+Output for brushing.jpg:
+Text: {'<CAPTION>': 'a man brushing his teeth with a pink toothbrush'}
+
+Output for coffedrinking.jpg:
+Text: {'<CAPTION>': 'a man sitting at a table with a cup of coffee'}
+
+Output for eating.jpg:
+Text: {'<CAPTION>': 'a man eating a hamburger with his mouth open'}
+
+Output for playingpool.jpg:
+Text: {'<CAPTION>': 'a man playing snooker on a blue table'}
+
+Output for sleeping.jpg:
+Text: {'<CAPTION>': 'a man sleeping in bed with his head on the pillow'}
+
+Output for traveelingincycle.jpg:
+Text: {'<CAPTION>': 'a man riding a bicycle on a bridge in the city'}
+
+Output for travellingback.jpg:
+Text: {'<CAPTION>': 'a young man riding a bicycle in the city - stock image'}
+
+Output for watchingtv.jpg:
+Text: {'<CAPTION>': 'a man sitting on a couch watching tv'}
+
+Output for working.jpg:
+Text: {'<CAPTION>': 'a man sitting at a table using a laptop computer'}
+
